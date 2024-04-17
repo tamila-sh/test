@@ -1,1 +1,1 @@
-2 t/s sugar
+3 t/s sugar
